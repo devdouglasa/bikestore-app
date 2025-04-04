@@ -45,9 +45,11 @@ Termine com um exemplo de como obter dados do sistema ou como usá-los para uma 
 
 ## 🛠️ Construído com
 
+<div>
 <img width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg' alt='Flutter'/>
 <img width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg' alt='Dart'/>
 <img width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg' alt='Firebase'/>
+</div>
 
 
 ---
