@@ -1,4 +1,4 @@
-# BikeStore App
+# BikeStore App 📱​
 
 App de loja de bicicletas
 
