@@ -1,16 +1,54 @@
-# bikestore
+# BikeStore App
 
-Bike Shopping App
+App de loja de bicicletas
 
-## Getting Started
+## 🚀 Começando
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### 📋 Pré-requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Para rodar o projeto é necessáro ter o [SDK do Flutter](https://flutter.dev/) instalado.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+version: 3.29.2^
+```
+
+### 🔧 Instalação
+
+Com o [Git](https://git-scm.com/downloads) e o [SDK do Flutter](https://flutter.dev/) instalado na máquina, rode os seguintes comandos no terminal:
+
+Passo 1:
+```
+git clone https://github.com/devdouglasa/bikestore-app.git
+```
+
+Passo 2:
+```
+cd bikestore-app
+```
+
+Passo 3:
+```
+flutter pub get
+```
+
+Passo 4:
+```
+flutter run
+```
+
+Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
+
+## ⚙️ Imagens do Projeto
+
+<img width=250 src='project.png'/>
+
+## 🛠️ Construído com
+
+<img width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg' alt='Flutter'/>
+<img width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg' alt='Dart'/>
+<img width=40 src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg' alt='Firebase'/>
+
+
+---
+Desenvolvido por [Douglas Alisson](https://github.com/devdouglasa) 😊
